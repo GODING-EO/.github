@@ -1,6 +1,9 @@
 # GODING-EO
 
-### 프로젝트 실무Ⅰ
+<br />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/113571183?s=200&v=4" alt="logo" width="150px" />
+</p>
 
 ```
 💡 프로젝트 소개: 다양한 고등학교 입시, 학교 내 경험 등의 다양한 정보를 쉽고 빠르게 얻는 앱 서비스
