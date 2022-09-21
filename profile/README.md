@@ -6,7 +6,8 @@
 </p>
 
 ```
-💡 프로젝트 소개: 다양한 고등학교 입시, 학교 내 경험 등의 다양한 정보를 쉽고 빠르게 얻는 앱 서비스
+💡 프로젝트 소개: 고등학교 입시부터 고등학교 생활까지 다양한 정보를 제공하는 서비스
+(a service that provides a variety of information from high school entrance exams to high school life)
 ```
 
 <div align=center>
